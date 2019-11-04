@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+Author:     Michael Hart
+Date:       11/3/19
+CTEC 135:   Microsoft Software Development with C#
+<Module 6, Programming Assignment 5, Problem 3>
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
